@@ -1,1 +1,1 @@
-worker python bot3.py
+gunicorn bot3.py
